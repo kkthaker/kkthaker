@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Kunj Thaker, I am persuing CSE at Institute of Technology, Nirma University
 <!--
 **kkthaker/kkthaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
